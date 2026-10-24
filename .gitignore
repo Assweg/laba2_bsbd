@@ -1,0 +1,10 @@
+.DS_Store
+~$*
+.vscode/
+.env
+.env.*
+*.o
+*.out
+*.gcda
+*.gcno
+build/
