@@ -56,8 +56,17 @@ bash run_docker.sh stop
 
 ## Продолжение курса
 
-[Первый семестр курса](https://github.com/Assweg/nstu/tree/main/5sem/%D0%91%D0%A1%D0%91%D0%94) · [Продолжение в шестом семестре](https://github.com/Assweg/nstu/tree/main/6sem/%D0%91%D0%A1%D0%91%D0%94).
+[Первый семестр курса](https://github.com/Assweg/nstu) · [Продолжение в шестом семестре](https://github.com/Assweg/nstu).
 
 ---
 
-[Все учебные работы](https://github.com/Assweg/nstu) · [Профиль Assweg](https://github.com/Assweg)
+[Каталог учебных репозиториев](https://github.com/Assweg/nstu) · [Профиль Assweg](https://github.com/Assweg)
+
+## Материалы из локальной папки
+
+Исходники и документы этой работы собраны в этом репозитории.
+
+### Отчёты и документы
+
+- [БСБД_БутаковН.М._ЛР2.docx](%D0%91%D0%A1%D0%91%D0%94_%D0%91%D1%83%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%D0%9D.%D0%9C._%D0%9B%D0%A02.docx)
+- [БСБД_БутаковН.М._ЛР2.pdf](%D0%91%D0%A1%D0%91%D0%94_%D0%91%D1%83%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%D0%9D.%D0%9C._%D0%9B%D0%A02.pdf)
